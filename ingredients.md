@@ -3,4 +3,4 @@
 * avocado
 * onion
 * salt
-* lime
+* limeé
