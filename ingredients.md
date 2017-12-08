@@ -4,3 +4,6 @@
 * salt
 * limeé
 * pepper
+* onion
+* cilantro
+
