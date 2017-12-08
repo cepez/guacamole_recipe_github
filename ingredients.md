@@ -3,3 +3,5 @@
 * avocado
 * salt
 * limeé
+* onion
+* cilantro
